@@ -17,14 +17,15 @@
 
 <h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="Schleidinem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][twitter]  
-[<img align="left" alt="Schleidinem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Schleidinem | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][instagram]  
+<p align="left">
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img alt="Schleidinem | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/schleidinem" target="_blank">
+    <img alt="Schleidinem | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/your-instagram-handle" target="_blank">
+    <img alt="Schleidinem | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />
+  </a>
+</p>
 
-<br clear="left"/>
-
----
-
-[linkedin]: https://linkedin.com/in/schleidinem  
-[twitter]: https://twitter.com/your-twitter-handle  
-[instagram]: https://instagram.com/your-instagram-handle
