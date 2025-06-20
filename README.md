@@ -5,13 +5,13 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>  
-  - 📥 <a href="https://github.com/Schleidinem/osticket-prereqs">osTicket: Prerequisites and Installation</a>  
-  - ⚙️ <a href="https://github.com/Schleidinem/post-install-config">osTicket: Post-Installation Configuration</a>  
-  - 🔁 <a href="https://github.com/Schleidinem/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a>  
+  - <a href="https://github.com/Schleidinem/osticket-prereqs">osTicket: Prerequisites and Installation</a>  
+  - <a href="https://github.com/Schleidinem/post-install-config">osTicket: Post-Installation Configuration</a>  
+  - <a href="https://github.com/Schleidinem/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a>  
 
 - <b>Microsoft Azure</b>  
-  - 🏗️ <a href="https://github.com/Schleidinem/configure-ad">Configuring On-premises Active Directory within Azure VMs</a>  
-  - 🔒 <a href="https://github.com/Schleidinem/azure-network-protocols">Network Security Groups (NSGs) and Inspecting Network Protocols</a>  
+  - <a href="https://github.com/Schleidinem/configure-ad">Configuring On-premises Active Directory within Azure VMs</a>  
+  - <a href="https://github.com/Schleidinem/azure-network-protocols">Network Security Groups (NSGs) and Inspecting Network Protocols</a>  
 
 ---
 
