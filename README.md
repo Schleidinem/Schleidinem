@@ -9,11 +9,8 @@
   <a href="https://www.linkedin.com/in/schleidine-massillon-a5a598356/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
   <a href="mailto:Schleidinem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-informational"></a>
   <a href="<RESUME_URL>"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-success"></a>
-  <img alt="Open to Work" src="https://img.shields.io/badge/Open_to_Work-Yes-brightgreen">
-  <img alt="Timezone" src="https://img.shields.io/badge/Timezone-ET-blue">
 </p>
 
----
 
 ### 🚀 Elevator Pitch
 Motivated cybersecurity professional pursuing a B.S. in IT Management (WGU, 2025). **CompTIA Security+ (SY0‑701)** . Hands‑on with networking, Windows/Linux, Microsoft 365/AD administration, phishing analysis, firewall configuration, endpoint protection, log analysis, and stakeholder communication. I turn lab work into clear **runbooks, KPIs, and dashboards** that improve security operations and decision‑making.
@@ -22,8 +19,8 @@ Motivated cybersecurity professional pursuing a B.S. in IT Management (WGU, 2025
 >
 > ## 📜 Certifications
 - CompTIA **Security+** (SY0‑701)
-- 
-### 🔭 2025 Focus Areas
+  
+### 🔭  Focus Areas
 - **Threat detection & log analysis** fundamentals; mapping to ATT&CK
 - **Phishing** analysis/triage and security awareness playbooks
 - **IAM basics** with Microsoft Entra/AD; MFA/SSO and least‑privilege patterns
@@ -31,13 +28,16 @@ Motivated cybersecurity professional pursuing a B.S. in IT Management (WGU, 2025
 - **Security KPIs** & reporting using Excel dashboards
 
 ## 🧪 Featured Projects
+** 1) Windows Server Hybrid Environment - Personal Home Lab **
+-
+     
 
-**1) Phishing Analysis & Awareness Playbook**  
+**2) Phishing Analysis & Awareness Playbook - Personal Home Lab**  
 - **What:** End‑to‑end workflow for reporting, triage, and response; user awareness materials.  
 - **Highlights:** Templates for incident notes, examples of real‑world lures, metrics for training impact.  
 - **Repo:** [`/phishing-triage-playbook`](#)
 
-**2) Threat Detection & Log Analysis Starter**  
+**3) Threat Detection & Log Analysis Starter - Personal Home Lab**  
 - **What:** Windows/Linux event logging quickstart with baseline dashboards and queries.  
 - **Highlights:** Event ID cheatsheet, workbook for KPI tracking, triage runbook.  
 - **Repo:** [`/log-analysis-starter`](#)
@@ -60,10 +60,6 @@ Motivated cybersecurity professional pursuing a B.S. in IT Management (WGU, 2025
 **Cloud & Infra:** Azure AD / Entra, AWS IAM, Linux, Docker, Networking (TCP/IP, HTTPS/TLS), DNS, VPN  
 **GRC:** NIST CSF, ISO 27001, HIPAA concepts, policy writing, risk assessment, KPI reporting  
 
-## 📜 Certifications
-- CompTIA **Security+** (SY0‑701)
-
----
 
 ## 📚 Writing & Notes
 Short, practical writeups from my labs and reading:
@@ -86,21 +82,16 @@ Short, practical writeups from my labs and reading:
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
 </p>
 
----
-
-## 📈 GitHub Stats (optional)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_USERNAME>" height="165">
-</p>
-
----
 
 ## 🎯 Contact
 - **Email:** Schleidinem@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/schleidine-massillon-a5a598356/  
+- **LinkedIn:** https://www.linkedin.com/in/schleidine-massillon-a5a598356/
+
+
+
+
+
+
   
 
-
-**Pro tip:** keep project READMEs tight—problem → approach → results → what’s next.
 
