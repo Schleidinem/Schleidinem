@@ -32,8 +32,9 @@ Motivated cybersecurity professional pursuing a B.S. in IT Management (WGU, 2025
 **GRC:** NIST CSF, ISO 27001, HIPAA concepts, policy writing, risk assessment, KPI reporting  
 
 ## 🧪 Featured Projects
-** 1) Windows Server Hybrid Environment - Personal Home Lab **
--
+
+1) Windows Server Hybrid Environment - Personal Home Lab 
+- What: Built a fully virtuliazed domain lab using VMware and Windows 10 VM.
      
 
 **2) Phishing Analysis & Awareness Playbook - Personal Home Lab**  
