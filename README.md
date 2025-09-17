@@ -2,13 +2,12 @@
 <h1 align="center">Hi, I'm Schleidine Massillon 👋</h1>
 <p align="center">
   <b>Cybersecurity | IT Management | Cloud & Infrastructure Security</b><br/>
-  <i>Security+ & PMP‑certified technologist blending IT management, cloud/infrastructure basics, and project leadership to protect systems and enable safe innovation.</i>
+  <i>Security+ technologist blending IT management, cloud/infrastructure basics, and project leadership to protect systems and enable safe innovation.</i>
 </p>
 <!-- Badges (edit or remove as needed) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/schleidine-massillon-a5a598356/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
   <a href="mailto:Schleidinem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-informational"></a>
-  <a href="<RESUME_URL>"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-success"></a>
 </p>
 
 
@@ -27,6 +26,11 @@ Motivated cybersecurity professional pursuing a B.S. in IT Management (WGU, 2025
 - **Firewall & endpoint** hardening checklists; Windows/Linux admin refreshers
 - **Security KPIs** & reporting using Excel dashboards
 
+## 🛠️ Core Skills
+**Security:** SIEM, Detection Engineering, EDR/EPP, IAM, SSO/MFA, Zero Trust, Vulnerability Mgmt, IR playbooks  
+**Cloud & Infra:** Azure AD / Entra, AWS IAM, Linux, Docker, Networking (TCP/IP, HTTPS/TLS), DNS, VPN  
+**GRC:** NIST CSF, ISO 27001, HIPAA concepts, policy writing, risk assessment, KPI reporting  
+
 ## 🧪 Featured Projects
 ** 1) Windows Server Hybrid Environment - Personal Home Lab **
 -
@@ -42,32 +46,6 @@ Motivated cybersecurity professional pursuing a B.S. in IT Management (WGU, 2025
 - **Highlights:** Event ID cheatsheet, workbook for KPI tracking, triage runbook.  
 - **Repo:** [`/log-analysis-starter`](#)
 
-## 🔬 Labs Library
-
-- [ ] Windows Event Logging Deep‑Dive (Sysmon, Event IDs)  
-- [ ] Sigma to KQL Conversion Cheatsheets  
-- [ ] Phishing Triage & YARA Rules  
-- [ ] Linux Hardening (CIS benchmarks, auditd)  
-- [ ] Network Monitoring (Zeek/Suricata quickstarts)  
-- [ ] Blue Team Playbooks (IR checklists, comms templates)  
-- [ ] Purple Team Mini‑Exercises (ATT&CK TTPs → detections)
-
-> Convert each checkbox into a repo as you complete it.
-
-
-## 🛠️ Core Skills
-**Security:** SIEM, Detection Engineering, EDR/EPP, IAM, SSO/MFA, Zero Trust, Vulnerability Mgmt, IR playbooks  
-**Cloud & Infra:** Azure AD / Entra, AWS IAM, Linux, Docker, Networking (TCP/IP, HTTPS/TLS), DNS, VPN  
-**GRC:** NIST CSF, ISO 27001, HIPAA concepts, policy writing, risk assessment, KPI reporting  
-
-
-## 📚 Writing & Notes
-Short, practical writeups from my labs and reading:
-- **Detection Notes:** `notes/detections/`  
-- **Runbooks:** `notes/runbooks/`  
-- **Threat Modeling:** `notes/threat-models/`
-
----
 
 ## 🧩 Tech I Use
 <p>
@@ -80,6 +58,7 @@ Short, practical writeups from my labs and reading:
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img alt="Powershell" src="https://img.shields.io/badge/Powershell-5391FE?logo=powershell&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
+  <img alt="Security+ " src="https://img.shields.io/badge/Security+-2496ED?logoComptia=Security+&logoColor=red">
 </p>
 
 
