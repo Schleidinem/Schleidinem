@@ -28,7 +28,6 @@ Motivated cybersecurity professional pursuing a B.S. in IT Management (WGU, 2025
 ## 🧪 Cybersecurity Projects
 
 1) Active Directory Home Lab
-- Built a fully virtuliazed domain lab using VMware and Windows 10 VM.
      
 
 ## 🧩 Tech I Use
