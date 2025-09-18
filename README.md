@@ -24,37 +24,17 @@ Motivated cybersecurity professional pursuing a B.S. in IT Management (WGU, 2025
 - **Phishing** analysis/triage and security awareness playbooks
 - **IAM basics** with Microsoft Entra/AD; MFA/SSO and least‑privilege patterns
 - **Firewall & endpoint** hardening checklists; Windows/Linux admin refreshers
-- **Security KPIs** & reporting using Excel dashboards
 
-## 🛠️ Core Skills
-**Security:** SIEM, Detection Engineering, EDR/EPP, IAM, SSO/MFA, Zero Trust, Vulnerability Mgmt, IR playbooks  
-**Cloud & Infra:** Azure AD / Entra, AWS IAM, Linux, Docker, Networking (TCP/IP, HTTPS/TLS), DNS, VPN  
-**GRC:** NIST CSF, ISO 27001, HIPAA concepts, policy writing, risk assessment, KPI reporting  
+## 🧪 Cybersecurity Projects
 
-## 🧪 Featured Projects
-
-1) Windows Server Hybrid Environment - Personal Home Lab 
-- What: Built a fully virtuliazed domain lab using VMware and Windows 10 VM.
+1) Active Directory Home Lab
+- Built a fully virtuliazed domain lab using VMware and Windows 10 VM.
      
-
-**2) Phishing Analysis & Awareness Playbook - Personal Home Lab**  
-- **What:** End‑to‑end workflow for reporting, triage, and response; user awareness materials.  
-- **Highlights:** Templates for incident notes, examples of real‑world lures, metrics for training impact.  
-- **Repo:** [`/phishing-triage-playbook`](#)
-
-**3) Threat Detection & Log Analysis Starter - Personal Home Lab**  
-- **What:** Windows/Linux event logging quickstart with baseline dashboards and queries.  
-- **Highlights:** Event ID cheatsheet, workbook for KPI tracking, triage runbook.  
-- **Repo:** [`/log-analysis-starter`](#)
-
 
 ## 🧩 Tech I Use
 <p>
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white">
-  <img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-210C4A?logo=wazuh&logoColor=white">
-  <img alt="Elastic" src="https://img.shields.io/badge/Elastic-005571?logo=elastic&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img alt="Powershell" src="https://img.shields.io/badge/Powershell-5391FE?logo=powershell&logoColor=white">
