@@ -28,6 +28,8 @@ Motivated cybersecurity professional pursuing a B.S. in IT Management (WGU, 2025
 ## 🧪 Cybersecurity Projects
 
 1) Active Directory Home Lab
+2) Building a Cloud SOC: Deploying a Honeypot VM and Threat Detection with Azure Sentinel
+
      
 
 ## 🧩 Tech I Use
