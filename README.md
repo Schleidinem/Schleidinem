@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi, I'm Schleidine Massillon 👋</h1>
 <p align="center">
-  <b>Cybersecurity | IT Management | Cloud & Infrastructure Security</b><br/>
-  <i>Security+ technologist blending IT management, cloud/infrastructure basics, and project leadership to protect systems and enable safe innovation.</i>
+
 </p>
 <!-- Badges (edit or remove as needed) -->
 <p align="center">
@@ -10,24 +9,12 @@
   <a href="mailto:Schleidinem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-informational"></a>
 </p>
 
-
-### 🚀 Elevator Pitch
-Motivated cybersecurity professional pursuing a B.S. in IT Management (WGU, 2025). **CompTIA Security+ (SY0‑701)** . Hands‑on with networking, Windows/Linux, Microsoft 365/AD administration, phishing analysis, firewall configuration, endpoint protection, log analysis, and stakeholder communication. I turn lab work into clear **runbooks, KPIs, and dashboards** that improve security operations and decision‑making.
-
-> **Actively exploring:** SIEM dashboards and detections, IAM hygiene, phishing triage, and cloud security patterns.
->
 > ## 📜 Certifications
 - CompTIA **Security+** (SY0‑701)
+- PMP
   
-### 🔭  Focus Areas
-- **Threat detection & log analysis** fundamentals; mapping to ATT&CK
-- **Phishing** analysis/triage and security awareness playbooks
-- **IAM basics** with Microsoft Entra/AD; MFA/SSO and least‑privilege patterns
-- **Firewall & endpoint** hardening checklists; Windows/Linux admin refreshers
-
 ## 🧪 Cybersecurity Projects
-
-1) Active Directory Home Lab
+1) Active Directory Home Lab 
 2) Building a Cloud SOC: Deploying a Honeypot VM and Threat Detection with Azure Sentinel
 
      
