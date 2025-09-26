@@ -2,21 +2,13 @@
 <h1 align="center">Hi, I'm Schleidine Massillon 👋</h1>
 <p align="center">
 
-</p>
-<!-- Badges (edit or remove as needed) -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/schleidine-massillon-a5a598356/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:Schleidinem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-informational"></a>
-</p>
+## 🧪 Cybersecurity Labs
+1) Active Directory Home Lab 
+2) Building a Cloud SOC: Deploying a Honeypot VM and Threat Detection with Azure Sentinel
 
 > ## 📜 Certifications
 - CompTIA **Security+** (SY0‑701)
 - PMP
-  
-## 🧪 Cybersecurity Projects
-1) Active Directory Home Lab 
-2) Building a Cloud SOC: Deploying a Honeypot VM and Threat Detection with Azure Sentinel
-
      
 
 ## 🧩 Tech I Use
